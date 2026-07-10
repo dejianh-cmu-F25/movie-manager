@@ -1,0 +1,5 @@
+.DS_Store
+Media Library/
+__pycache__/
+.pytest_cache/
+*.pyc

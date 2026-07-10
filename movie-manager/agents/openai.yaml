@@ -1,0 +1,4 @@
+interface:
+  display_name: "Movie Manager"
+  short_description: "Search 美剧粉 and prepare ASS subtitles"
+  default_prompt: "Use $movie-manager to search 美剧粉 for a movie or episode, show candidate releases for confirmation, then help me prepare ASS subtitles and VLC playback."
